@@ -1,5 +1,4 @@
 # mateusp711.github.io
-# My Awesome Project
 
 This project is a full-stack application built using Node.js, TypeORM, and Angular. The backend is powered by Node.js with TypeORM for database interactions, while the frontend is developed using Angular.
 
